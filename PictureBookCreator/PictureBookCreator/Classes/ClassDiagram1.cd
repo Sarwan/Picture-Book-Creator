@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PictureBookCreator.pbk">
+    <Position X="1" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAIAAEkAEAggAAQCACAAIAAAAAEIAAAACAAAEA=</HashCode>
+      <FileName>Classes\pbk.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PictureBookCreator.Page">
+    <Position X="3" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAiAAAAAAAgAAAAAAAAIIAAAAAAAAABAAACAAEAAA=</HashCode>
+      <FileName>Classes\Page.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PictureBookCreator.Settings">
+    <Position X="5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAAAIAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Settings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PictureBookCreator.Validating">
+    <Position X="5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Validating.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PictureBookCreator.FileManager">
+    <Position X="5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEACAAAAAAAAIAABAAAACAAAAAAAAgAAAAAAAEAAAA=</HashCode>
+      <FileName>Classes\FileManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
